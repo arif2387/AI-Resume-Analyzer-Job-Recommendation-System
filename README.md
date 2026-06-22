@@ -51,9 +51,6 @@ This project integrates **Google Gemini AI** for resume analysis and includes se
 ## How to Run the Project Locally
 
 #### 1. Clone the Repository
-```bash
-git clone https://github.com/Mohamed-Imran-12/Resume-Analyser.git
-```
 
 #### 2. Open Project in IDE
 Open the project in **IntelliJ IDEA / Eclipse**
